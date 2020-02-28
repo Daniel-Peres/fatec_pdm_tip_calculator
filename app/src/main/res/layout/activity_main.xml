@@ -76,8 +76,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="right"
         android:hint="@string/total"
-        android:text="@string/total"
-        />
+        android:text="@string/total" />
 
     <TextView
         android:id="@+id/totalTextView"
